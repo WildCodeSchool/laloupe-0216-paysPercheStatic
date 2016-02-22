@@ -8,8 +8,28 @@ Author: WCS
 Text Domain: pays-perche
 */
 
+
 /* color:
 logo orange (le perche) - #F18E00;
 logo vert (le perche) - #9FC90C;
 */
+
+
+@font-face {
+    font-family: 'harabarahanditalic';
+    src: url('./img/HarabaraHand-webfont.eot');
+    src: url('./img/HarabaraHand-webfont.eot?#iefix') format('embedded-opentype'),
+         url('./img/HarabaraHand-webfont.woff') format('woff'),
+         url('./img/HarabaraHand-webfont.ttf') format('truetype'),
+         url('./img/HarabaraHand-webfont.svg#harabarahanditalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+.banner-box h1{
+    color:#54F600;
+    font-family:'harabarahanditalic';
+    font-size:40px;
+    text-shadow:1px 1px 1px black;
+
+}
 
