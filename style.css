@@ -1,20 +1,20 @@
 /*
 Theme Name: Pays Perche
-Template: onetone
+Template: dazzing
 Theme URI:
-Description: 
-Version: 1.0.0
+Description: theme enfant du theme dazzling
+Version: 0.1
 Author: WCS
 Text Domain: pays-perche
 */
-
+@import url("../dazzling/style.css");
 
 /* color:
 logo orange (le perche) - #F18E00;
 logo vert (le perche) - #9FC90C;
 */
 
-
+/*
 @font-face {
     font-family: 'harabarahanditalic';
     src: url('./img/HarabaraHand-webfont.eot');
@@ -32,4 +32,4 @@ logo vert (le perche) - #9FC90C;
     text-shadow:1px 1px 1px black;
 
 }
-
+*/
