@@ -8,6 +8,8 @@ Installer Wordpress puis le thème himalayas : [URL de chargement](http://themeg
 
 Installer les plugins : [1°plugin](https://siteorigin.com/page-builder/) et [2° plugin](https://wordpress.org/plugins/so-widgets-bundle/)
 
+Placer le dépôt GIT dans le dossier de thème : *pays-perche*
+
 Copier les uploads dans le dossier *wp-content*.
 
 Importer la base MySQL.
