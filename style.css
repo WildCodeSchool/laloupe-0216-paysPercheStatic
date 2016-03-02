@@ -9,3 +9,42 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.txt
 Tags: light, white, one-column, two-columns, right-sidebar, left-sidebar, fluid-layout, responsive-layout, custom-menu, featured-images, sticky-post, translation-ready, threaded-comments, theme-options
 Text Domain: pays-perche
 */
+
+.home #main{
+	margin-top: 0px;
+}
+
+#pgc-9-1-0 {
+	margin-bottom: 50px;
+}
+
+#pgc-9-2-0 {
+	min-height: 150px;
+	height: auto;
+	padding: 15px;
+	text-align: center;
+}
+
+#pgc-9-4-0 {
+	min-height: 150px;
+	height: auto;
+	padding: 15px;
+	text-align: center;
+}
+
+#top-footer, #bottom-footer {
+	background-color: white;
+	color: black;
+	height : 120px;
+	padding : 0px;
+}
+
+#colophon.footer-with-widget {
+	margin:0px;
+}
+.menu-search-wrapper{
+	width:100%;
+}
+#site-navigation{
+	float:left;
+}
